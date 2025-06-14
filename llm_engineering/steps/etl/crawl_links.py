@@ -1,4 +1,4 @@
-from typing import List
+from typing import List, Optional
 from pathlib import Path
 from llm_engineering.application.crawlers.local_loader import LocalFileLoader
 from llm_engineering.domain.documents import UserDocument
@@ -9,10 +9,23 @@ from llm_engineering.settings import settings
 from llm_engineering.infrastructure.db.mongo import connection
 
 @step
-def crawl_links(user: UserDocument, links: List[str]) -> Annotated[List[str], "crawled_links"]:
+def crawl_links(
+    links: Optional[List[str]] = None, 
+    user: Optional[UserDocument] = None
+) -> Annotated[List[str], "crawled_links"]:
+
     # Get and validate folder path
     folder_path = Path(settings.LOCAL_DATA_FOLDER).expanduser()
-    
+
+    if user is None:
+        from llm_engineering.domain.documents import UserDocument
+        user = UserDocument(
+            first_name="System",
+            last_name="User",
+            
+        )
+
+
     if not folder_path.exists():
         raise FileNotFoundError(f"Data folder not found: {folder_path}")
     if not folder_path.is_dir():
@@ -22,13 +35,13 @@ def crawl_links(user: UserDocument, links: List[str]) -> Annotated[List[str], "c
         # Load documents (returns List[LocalFileDocument])
         loader = LocalFileLoader(str(folder_path))
         documents = loader.load_documents()
-        
+
         if not documents:
             return ["No documents found in folder - nothing to process"]
         
         # Prepare documents for insertion
         documents_to_insert = [doc.model_dump() for doc in documents]
-
+        
         # Save to MongoDB - using explicit collection name
         db = connection[settings.DATABASE_NAME]
         collection = db["localfiles"]

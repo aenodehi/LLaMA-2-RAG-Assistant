@@ -1,7 +1,8 @@
 from abc import ABC
+import uuid
 from typing import Optional
-
-from pydantic import UUID4
+from datetime import datetime
+from pydantic import UUID4, BaseModel, Field
 
 from .base import VectorBaseDocument
 from .types import DataCategory
@@ -12,6 +13,19 @@ class CleanedDocument(VectorBaseDocument, ABC):
     platform: str
     author_id: UUID4
     author_full_name: str
+
+
+class LocalFileDocument(VectorBaseDocument):
+    content: str
+    file_path: str
+    platform: str = "local_filesystem"
+    author_id: UUID4 = Field(default_factory=lambda: uuid.UUID(int=0))
+    author_full_name: str = "System Generated"
+
+    class Config:
+        name = "local_files"
+        category = DataCategory.FILES
+        use_vector_index = False
 
 
 class CleanedPostDocument(CleanedDocument):

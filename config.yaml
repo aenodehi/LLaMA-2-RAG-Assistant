@@ -1,0 +1,19 @@
+active_stack_id: 6dff2937-75ca-480f-ad2e-634642d92187
+active_workspace_name: default
+analytics_opt_in: true
+store:
+  backup_directory: /home/ali/Projects/LLMs/LLM-Engineers-Handbook/database_backup
+  backup_strategy: in-memory
+  database: /home/ali/Projects/LLMs/LLM-Engineers-Handbook/local_stores/default_zen_store/zenml.db
+  driver: sqlite
+  max_overflow: 20
+  pool_pre_ping: true
+  pool_size: 20
+  secrets_store:
+    type: sql
+  ssl: false
+  ssl_verify_server_cert: false
+  type: sql
+  url: sqlite:////home/ali/Projects/LLMs/LLM-Engineers-Handbook/local_stores/default_zen_store/zenml.db
+user_id: 53837b63-184d-4868-ae1a-b5283647a843
+version: 0.74.0

@@ -1,0 +1,881 @@
+Attaching to llm_engineering_zenml
+Usage: zenml server [OPTIONS] COMMAND [ARGS]...
+
+  Commands for managing ZenML servers.
+
+Options:
+  --help  Show this message and exit.
+
+Commands:
+  list  List all ZenML servers that this client is authenticated to.
+  show  Show the ZenML dashboard for the server that the client is...
+Usage: zenml server [OPTIONS] COMMAND [ARGS]...
+
+  Commands for managing ZenML servers.
+
+Options:
+  --help  Show this message and exit.
+
+Commands:
+  list  List all ZenML servers that this client is authenticated to.
+  show  Show the ZenML dashboard for the server that the client is...
+Usage: zenml server [OPTIONS] COMMAND [ARGS]...
+
+  Commands for managing ZenML servers.
+
+Options:
+  --help  Show this message and exit.
+
+Commands:
+  list  List all ZenML servers that this client is authenticated to.
+  show  Show the ZenML dashboard for the server that the client is...
+Usage: zenml server [OPTIONS] COMMAND [ARGS]...
+
+  Commands for managing ZenML servers.
+
+Options:
+  --help  Show this message and exit.
+
+Commands:
+  list  List all ZenML servers that this client is authenticated to.
+  show  Show the ZenML dashboard for the server that the client is...
+Usage: zenml server [OPTIONS] COMMAND [ARGS]...
+
+  Commands for managing ZenML servers.
+
+Options:
+  --help  Show this message and exit.
+
+Commands:
+  list  List all ZenML servers that this client is authenticated to.
+  show  Show the ZenML dashboard for the server that the client is...
+Usage: zenml server [OPTIONS] COMMAND [ARGS]...
+
+  Commands for managing ZenML servers.
+
+Options:
+  --help  Show this message and exit.
+
+Commands:
+  list  List all ZenML servers that this client is authenticated to.
+  show  Show the ZenML dashboard for the server that the client is...
+Usage: zenml server [OPTIONS] COMMAND [ARGS]...
+
+  Commands for managing ZenML servers.
+
+Options:
+  --help  Show this message and exit.
+
+Commands:
+  list  List all ZenML servers that this client is authenticated to.
+  show  Show the ZenML dashboard for the server that the client is...
+Usage: zenml server [OPTIONS] COMMAND [ARGS]...
+
+  Commands for managing ZenML servers.
+
+Options:
+  --help  Show this message and exit.
+
+Commands:
+  list  List all ZenML servers that this client is authenticated to.
+  show  Show the ZenML dashboard for the server that the client is...
+Usage: zenml server [OPTIONS] COMMAND [ARGS]...
+
+  Commands for managing ZenML servers.
+
+Options:
+  --help  Show this message and exit.
+
+Commands:
+  list  List all ZenML servers that this client is authenticated to.
+  show  Show the ZenML dashboard for the server that the client is...
+Usage: zenml server [OPTIONS] COMMAND [ARGS]...
+
+  Commands for managing ZenML servers.
+
+Options:
+  --help  Show this message and exit.
+
+Commands:
+  list  List all ZenML servers that this client is authenticated to.
+  show  Show the ZenML dashboard for the server that the client is...
+Usage: zenml server [OPTIONS] COMMAND [ARGS]...
+
+  Commands for managing ZenML servers.
+
+Options:
+  --help  Show this message and exit.
+
+Commands:
+  list  List all ZenML servers that this client is authenticated to.
+  show  Show the ZenML dashboard for the server that the client is...
+Usage: zenml server [OPTIONS] COMMAND [ARGS]...
+
+  Commands for managing ZenML servers.
+
+Options:
+  --help  Show this message and exit.
+
+Commands:
+  list  List all ZenML servers that this client is authenticated to.
+  show  Show the ZenML dashboard for the server that the client is...
+Usage: zenml server [OPTIONS] COMMAND [ARGS]...
+
+  Commands for managing ZenML servers.
+
+Options:
+  --help  Show this message and exit.
+
+Commands:
+  list  List all ZenML servers that this client is authenticated to.
+  show  Show the ZenML dashboard for the server that the client is...
+Usage: zenml server [OPTIONS] COMMAND [ARGS]...
+
+  Commands for managing ZenML servers.
+
+Options:
+  --help  Show this message and exit.
+
+Commands:
+  list  List all ZenML servers that this client is authenticated to.
+  show  Show the ZenML dashboard for the server that the client is...
+Usage: zenml server [OPTIONS] COMMAND [ARGS]...
+
+  Commands for managing ZenML servers.
+
+Options:
+  --help  Show this message and exit.
+
+Commands:
+  list  List all ZenML servers that this client is authenticated to.
+  show  Show the ZenML dashboard for the server that the client is...
+Usage: zenml server [OPTIONS] COMMAND [ARGS]...
+
+  Commands for managing ZenML servers.
+
+Options:
+  --help  Show this message and exit.
+
+Commands:
+  list  List all ZenML servers that this client is authenticated to.
+  show  Show the ZenML dashboard for the server that the client is...
+Usage: zenml server [OPTIONS] COMMAND [ARGS]...
+
+  Commands for managing ZenML servers.
+
+Options:
+  --help  Show this message and exit.
+
+Commands:
+  list  List all ZenML servers that this client is authenticated to.
+  show  Show the ZenML dashboard for the server that the client is...
+Usage: zenml server [OPTIONS] COMMAND [ARGS]...
+
+  Commands for managing ZenML servers.
+
+Options:
+  --help  Show this message and exit.
+
+Commands:
+  list  List all ZenML servers that this client is authenticated to.
+  show  Show the ZenML dashboard for the server that the client is...
+Usage: zenml server [OPTIONS] COMMAND [ARGS]...
+
+  Commands for managing ZenML servers.
+
+Options:
+  --help  Show this message and exit.
+
+Commands:
+  list  List all ZenML servers that this client is authenticated to.
+  show  Show the ZenML dashboard for the server that the client is...
+Usage: zenml server [OPTIONS] COMMAND [ARGS]...
+
+  Commands for managing ZenML servers.
+
+Options:
+  --help  Show this message and exit.
+
+Commands:
+  list  List all ZenML servers that this client is authenticated to.
+  show  Show the ZenML dashboard for the server that the client is...
+Usage: zenml server [OPTIONS] COMMAND [ARGS]...
+
+  Commands for managing ZenML servers.
+
+Options:
+  --help  Show this message and exit.
+
+Commands:
+  list  List all ZenML servers that this client is authenticated to.
+  show  Show the ZenML dashboard for the server that the client is...
+Usage: zenml server [OPTIONS] COMMAND [ARGS]...
+
+  Commands for managing ZenML servers.
+
+Options:
+  --help  Show this message and exit.
+
+Commands:
+  list  List all ZenML servers that this client is authenticated to.
+  show  Show the ZenML dashboard for the server that the client is...
+Usage: zenml server [OPTIONS] COMMAND [ARGS]...
+
+  Commands for managing ZenML servers.
+
+Options:
+  --help  Show this message and exit.
+
+Commands:
+  list  List all ZenML servers that this client is authenticated to.
+  show  Show the ZenML dashboard for the server that the client is...
+Usage: zenml server [OPTIONS] COMMAND [ARGS]...
+
+  Commands for managing ZenML servers.
+
+Options:
+  --help  Show this message and exit.
+
+Commands:
+  list  List all ZenML servers that this client is authenticated to.
+  show  Show the ZenML dashboard for the server that the client is...
+Usage: zenml server [OPTIONS] COMMAND [ARGS]...
+
+  Commands for managing ZenML servers.
+
+Options:
+  --help  Show this message and exit.
+
+Commands:
+  list  List all ZenML servers that this client is authenticated to.
+  show  Show the ZenML dashboard for the server that the client is...
+Usage: zenml server [OPTIONS] COMMAND [ARGS]...
+
+  Commands for managing ZenML servers.
+
+Options:
+  --help  Show this message and exit.
+
+Commands:
+  list  List all ZenML servers that this client is authenticated to.
+  show  Show the ZenML dashboard for the server that the client is...
+Usage: zenml server [OPTIONS] COMMAND [ARGS]...
+
+  Commands for managing ZenML servers.
+
+Options:
+  --help  Show this message and exit.
+
+Commands:
+  list  List all ZenML servers that this client is authenticated to.
+  show  Show the ZenML dashboard for the server that the client is...
+Usage: zenml server [OPTIONS] COMMAND [ARGS]...
+
+  Commands for managing ZenML servers.
+
+Options:
+  --help  Show this message and exit.
+
+Commands:
+  list  List all ZenML servers that this client is authenticated to.
+  show  Show the ZenML dashboard for the server that the client is...
+Usage: zenml server [OPTIONS] COMMAND [ARGS]...
+
+  Commands for managing ZenML servers.
+
+Options:
+  --help  Show this message and exit.
+
+Commands:
+  list  List all ZenML servers that this client is authenticated to.
+  show  Show the ZenML dashboard for the server that the client is...
+Usage: zenml server [OPTIONS] COMMAND [ARGS]...
+
+  Commands for managing ZenML servers.
+
+Options:
+  --help  Show this message and exit.
+
+Commands:
+  list  List all ZenML servers that this client is authenticated to.
+  show  Show the ZenML dashboard for the server that the client is...
+Usage: zenml server [OPTIONS] COMMAND [ARGS]...
+
+  Commands for managing ZenML servers.
+
+Options:
+  --help  Show this message and exit.
+
+Commands:
+  list  List all ZenML servers that this client is authenticated to.
+  show  Show the ZenML dashboard for the server that the client is...
+Usage: zenml server [OPTIONS] COMMAND [ARGS]...
+
+  Commands for managing ZenML servers.
+
+Options:
+  --help  Show this message and exit.
+
+Commands:
+  list  List all ZenML servers that this client is authenticated to.
+  show  Show the ZenML dashboard for the server that the client is...
+Usage: zenml server [OPTIONS] COMMAND [ARGS]...
+
+  Commands for managing ZenML servers.
+
+Options:
+  --help  Show this message and exit.
+
+Commands:
+  list  List all ZenML servers that this client is authenticated to.
+  show  Show the ZenML dashboard for the server that the client is...
+Usage: zenml server [OPTIONS] COMMAND [ARGS]...
+
+  Commands for managing ZenML servers.
+
+Options:
+  --help  Show this message and exit.
+
+Commands:
+  list  List all ZenML servers that this client is authenticated to.
+  show  Show the ZenML dashboard for the server that the client is...
+Usage: zenml server [OPTIONS] COMMAND [ARGS]...
+
+  Commands for managing ZenML servers.
+
+Options:
+  --help  Show this message and exit.
+
+Commands:
+  list  List all ZenML servers that this client is authenticated to.
+  show  Show the ZenML dashboard for the server that the client is...
+Usage: zenml server [OPTIONS] COMMAND [ARGS]...
+
+  Commands for managing ZenML servers.
+
+Options:
+  --help  Show this message and exit.
+
+Commands:
+  list  List all ZenML servers that this client is authenticated to.
+  show  Show the ZenML dashboard for the server that the client is...
+Usage: zenml server [OPTIONS] COMMAND [ARGS]...
+
+  Commands for managing ZenML servers.
+
+Options:
+  --help  Show this message and exit.
+
+Commands:
+  list  List all ZenML servers that this client is authenticated to.
+  show  Show the ZenML dashboard for the server that the client is...
+Usage: zenml server [OPTIONS] COMMAND [ARGS]...
+
+  Commands for managing ZenML servers.
+
+Options:
+  --help  Show this message and exit.
+
+Commands:
+  list  List all ZenML servers that this client is authenticated to.
+  show  Show the ZenML dashboard for the server that the client is...
+Usage: zenml server [OPTIONS] COMMAND [ARGS]...
+
+  Commands for managing ZenML servers.
+
+Options:
+  --help  Show this message and exit.
+
+Commands:
+  list  List all ZenML servers that this client is authenticated to.
+  show  Show the ZenML dashboard for the server that the client is...
+Usage: zenml server [OPTIONS] COMMAND [ARGS]...
+
+  Commands for managing ZenML servers.
+
+Options:
+  --help  Show this message and exit.
+
+Commands:
+  list  List all ZenML servers that this client is authenticated to.
+  show  Show the ZenML dashboard for the server that the client is...
+Usage: zenml server [OPTIONS] COMMAND [ARGS]...
+
+  Commands for managing ZenML servers.
+
+Options:
+  --help  Show this message and exit.
+
+Commands:
+  list  List all ZenML servers that this client is authenticated to.
+  show  Show the ZenML dashboard for the server that the client is...
+Usage: zenml server [OPTIONS] COMMAND [ARGS]...
+
+  Commands for managing ZenML servers.
+
+Options:
+  --help  Show this message and exit.
+
+Commands:
+  list  List all ZenML servers that this client is authenticated to.
+  show  Show the ZenML dashboard for the server that the client is...
+Usage: zenml server [OPTIONS] COMMAND [ARGS]...
+
+  Commands for managing ZenML servers.
+
+Options:
+  --help  Show this message and exit.
+
+Commands:
+  list  List all ZenML servers that this client is authenticated to.
+  show  Show the ZenML dashboard for the server that the client is...
+Usage: zenml server [OPTIONS] COMMAND [ARGS]...
+
+  Commands for managing ZenML servers.
+
+Options:
+  --help  Show this message and exit.
+
+Commands:
+  list  List all ZenML servers that this client is authenticated to.
+  show  Show the ZenML dashboard for the server that the client is...
+Usage: zenml server [OPTIONS] COMMAND [ARGS]...
+
+  Commands for managing ZenML servers.
+
+Options:
+  --help  Show this message and exit.
+
+Commands:
+  list  List all ZenML servers that this client is authenticated to.
+  show  Show the ZenML dashboard for the server that the client is...
+Usage: zenml server [OPTIONS] COMMAND [ARGS]...
+
+  Commands for managing ZenML servers.
+
+Options:
+  --help  Show this message and exit.
+
+Commands:
+  list  List all ZenML servers that this client is authenticated to.
+  show  Show the ZenML dashboard for the server that the client is...
+Usage: zenml server [OPTIONS] COMMAND [ARGS]...
+
+  Commands for managing ZenML servers.
+
+Options:
+  --help  Show this message and exit.
+
+Commands:
+  list  List all ZenML servers that this client is authenticated to.
+  show  Show the ZenML dashboard for the server that the client is...
+Usage: zenml server [OPTIONS] COMMAND [ARGS]...
+
+  Commands for managing ZenML servers.
+
+Options:
+  --help  Show this message and exit.
+
+Commands:
+  list  List all ZenML servers that this client is authenticated to.
+  show  Show the ZenML dashboard for the server that the client is...
+Usage: zenml server [OPTIONS] COMMAND [ARGS]...
+
+  Commands for managing ZenML servers.
+
+Options:
+  --help  Show this message and exit.
+
+Commands:
+  list  List all ZenML servers that this client is authenticated to.
+  show  Show the ZenML dashboard for the server that the client is...
+Usage: zenml server [OPTIONS] COMMAND [ARGS]...
+
+  Commands for managing ZenML servers.
+
+Options:
+  --help  Show this message and exit.
+
+Commands:
+  list  List all ZenML servers that this client is authenticated to.
+  show  Show the ZenML dashboard for the server that the client is...
+Usage: zenml server [OPTIONS] COMMAND [ARGS]...
+
+  Commands for managing ZenML servers.
+
+Options:
+  --help  Show this message and exit.
+
+Commands:
+  list  List all ZenML servers that this client is authenticated to.
+  show  Show the ZenML dashboard for the server that the client is...
+Usage: zenml server [OPTIONS] COMMAND [ARGS]...
+
+  Commands for managing ZenML servers.
+
+Options:
+  --help  Show this message and exit.
+
+Commands:
+  list  List all ZenML servers that this client is authenticated to.
+  show  Show the ZenML dashboard for the server that the client is...
+Usage: zenml server [OPTIONS] COMMAND [ARGS]...
+
+  Commands for managing ZenML servers.
+
+Options:
+  --help  Show this message and exit.
+
+Commands:
+  list  List all ZenML servers that this client is authenticated to.
+  show  Show the ZenML dashboard for the server that the client is...
+Usage: zenml server [OPTIONS] COMMAND [ARGS]...
+
+  Commands for managing ZenML servers.
+
+Options:
+  --help  Show this message and exit.
+
+Commands:
+  list  List all ZenML servers that this client is authenticated to.
+  show  Show the ZenML dashboard for the server that the client is...
+Usage: zenml server [OPTIONS] COMMAND [ARGS]...
+
+  Commands for managing ZenML servers.
+
+Options:
+  --help  Show this message and exit.
+
+Commands:
+  list  List all ZenML servers that this client is authenticated to.
+  show  Show the ZenML dashboard for the server that the client is...
+Usage: zenml server [OPTIONS] COMMAND [ARGS]...
+
+  Commands for managing ZenML servers.
+
+Options:
+  --help  Show this message and exit.
+
+Commands:
+  list  List all ZenML servers that this client is authenticated to.
+  show  Show the ZenML dashboard for the server that the client is...
+Usage: zenml server [OPTIONS] COMMAND [ARGS]...
+
+  Commands for managing ZenML servers.
+
+Options:
+  --help  Show this message and exit.
+
+Commands:
+  list  List all ZenML servers that this client is authenticated to.
+  show  Show the ZenML dashboard for the server that the client is...
+Usage: zenml server [OPTIONS] COMMAND [ARGS]...
+
+  Commands for managing ZenML servers.
+
+Options:
+  --help  Show this message and exit.
+
+Commands:
+  list  List all ZenML servers that this client is authenticated to.
+  show  Show the ZenML dashboard for the server that the client is...
+Usage: zenml server [OPTIONS] COMMAND [ARGS]...
+
+  Commands for managing ZenML servers.
+
+Options:
+  --help  Show this message and exit.
+
+Commands:
+  list  List all ZenML servers that this client is authenticated to.
+  show  Show the ZenML dashboard for the server that the client is...
+Usage: zenml server [OPTIONS] COMMAND [ARGS]...
+
+  Commands for managing ZenML servers.
+
+Options:
+  --help  Show this message and exit.
+
+Commands:
+  list  List all ZenML servers that this client is authenticated to.
+  show  Show the ZenML dashboard for the server that the client is...
+Usage: zenml server [OPTIONS] COMMAND [ARGS]...
+
+  Commands for managing ZenML servers.
+
+Options:
+  --help  Show this message and exit.
+
+Commands:
+  list  List all ZenML servers that this client is authenticated to.
+  show  Show the ZenML dashboard for the server that the client is...
+Usage: zenml server [OPTIONS] COMMAND [ARGS]...
+
+  Commands for managing ZenML servers.
+
+Options:
+  --help  Show this message and exit.
+
+Commands:
+  list  List all ZenML servers that this client is authenticated to.
+  show  Show the ZenML dashboard for the server that the client is...
+Usage: zenml server [OPTIONS] COMMAND [ARGS]...
+
+  Commands for managing ZenML servers.
+
+Options:
+  --help  Show this message and exit.
+
+Commands:
+  list  List all ZenML servers that this client is authenticated to.
+  show  Show the ZenML dashboard for the server that the client is...
+Usage: zenml server [OPTIONS] COMMAND [ARGS]...
+
+  Commands for managing ZenML servers.
+
+Options:
+  --help  Show this message and exit.
+
+Commands:
+  list  List all ZenML servers that this client is authenticated to.
+  show  Show the ZenML dashboard for the server that the client is...
+Usage: zenml server [OPTIONS] COMMAND [ARGS]...
+
+  Commands for managing ZenML servers.
+
+Options:
+  --help  Show this message and exit.
+
+Commands:
+  list  List all ZenML servers that this client is authenticated to.
+  show  Show the ZenML dashboard for the server that the client is...
+Usage: zenml server [OPTIONS] COMMAND [ARGS]...
+
+  Commands for managing ZenML servers.
+
+Options:
+  --help  Show this message and exit.
+
+Commands:
+  list  List all ZenML servers that this client is authenticated to.
+  show  Show the ZenML dashboard for the server that the client is...
+Usage: zenml server [OPTIONS] COMMAND [ARGS]...
+
+  Commands for managing ZenML servers.
+
+Options:
+  --help  Show this message and exit.
+
+Commands:
+  list  List all ZenML servers that this client is authenticated to.
+  show  Show the ZenML dashboard for the server that the client is...
+Usage: zenml server [OPTIONS] COMMAND [ARGS]...
+
+  Commands for managing ZenML servers.
+
+Options:
+  --help  Show this message and exit.
+
+Commands:
+  list  List all ZenML servers that this client is authenticated to.
+  show  Show the ZenML dashboard for the server that the client is...
+Usage: zenml server [OPTIONS] COMMAND [ARGS]...
+
+  Commands for managing ZenML servers.
+
+Options:
+  --help  Show this message and exit.
+
+Commands:
+  list  List all ZenML servers that this client is authenticated to.
+  show  Show the ZenML dashboard for the server that the client is...
+Usage: zenml server [OPTIONS] COMMAND [ARGS]...
+
+  Commands for managing ZenML servers.
+
+Options:
+  --help  Show this message and exit.
+
+Commands:
+  list  List all ZenML servers that this client is authenticated to.
+  show  Show the ZenML dashboard for the server that the client is...
+Usage: zenml server [OPTIONS] COMMAND [ARGS]...
+
+  Commands for managing ZenML servers.
+
+Options:
+  --help  Show this message and exit.
+
+Commands:
+  list  List all ZenML servers that this client is authenticated to.
+  show  Show the ZenML dashboard for the server that the client is...
+Usage: zenml server [OPTIONS] COMMAND [ARGS]...
+
+  Commands for managing ZenML servers.
+
+Options:
+  --help  Show this message and exit.
+
+Commands:
+  list  List all ZenML servers that this client is authenticated to.
+  show  Show the ZenML dashboard for the server that the client is...
+Usage: zenml server [OPTIONS] COMMAND [ARGS]...
+
+  Commands for managing ZenML servers.
+
+Options:
+  --help  Show this message and exit.
+
+Commands:
+  list  List all ZenML servers that this client is authenticated to.
+  show  Show the ZenML dashboard for the server that the client is...
+Usage: zenml server [OPTIONS] COMMAND [ARGS]...
+
+  Commands for managing ZenML servers.
+
+Options:
+  --help  Show this message and exit.
+
+Commands:
+  list  List all ZenML servers that this client is authenticated to.
+  show  Show the ZenML dashboard for the server that the client is...
+Usage: zenml server [OPTIONS] COMMAND [ARGS]...
+
+  Commands for managing ZenML servers.
+
+Options:
+  --help  Show this message and exit.
+
+Commands:
+  list  List all ZenML servers that this client is authenticated to.
+  show  Show the ZenML dashboard for the server that the client is...
+Usage: zenml server [OPTIONS] COMMAND [ARGS]...
+
+  Commands for managing ZenML servers.
+
+Options:
+  --help  Show this message and exit.
+
+Commands:
+  list  List all ZenML servers that this client is authenticated to.
+  show  Show the ZenML dashboard for the server that the client is...
+Usage: zenml server [OPTIONS] COMMAND [ARGS]...
+
+  Commands for managing ZenML servers.
+
+Options:
+  --help  Show this message and exit.
+
+Commands:
+  list  List all ZenML servers that this client is authenticated to.
+  show  Show the ZenML dashboard for the server that the client is...
+Usage: zenml server [OPTIONS] COMMAND [ARGS]...
+
+  Commands for managing ZenML servers.
+
+Options:
+  --help  Show this message and exit.
+
+Commands:
+  list  List all ZenML servers that this client is authenticated to.
+  show  Show the ZenML dashboard for the server that the client is...
+Usage: zenml server [OPTIONS] COMMAND [ARGS]...
+
+  Commands for managing ZenML servers.
+
+Options:
+  --help  Show this message and exit.
+
+Commands:
+  list  List all ZenML servers that this client is authenticated to.
+  show  Show the ZenML dashboard for the server that the client is...
+Usage: zenml server [OPTIONS] COMMAND [ARGS]...
+
+  Commands for managing ZenML servers.
+
+Options:
+  --help  Show this message and exit.
+
+Commands:
+  list  List all ZenML servers that this client is authenticated to.
+  show  Show the ZenML dashboard for the server that the client is...
+Usage: zenml server [OPTIONS] COMMAND [ARGS]...
+
+  Commands for managing ZenML servers.
+
+Options:
+  --help  Show this message and exit.
+
+Commands:
+  list  List all ZenML servers that this client is authenticated to.
+  show  Show the ZenML dashboard for the server that the client is...
+Usage: zenml server [OPTIONS] COMMAND [ARGS]...
+
+  Commands for managing ZenML servers.
+
+Options:
+  --help  Show this message and exit.
+
+Commands:
+  list  List all ZenML servers that this client is authenticated to.
+  show  Show the ZenML dashboard for the server that the client is...
+Usage: zenml server [OPTIONS] COMMAND [ARGS]...
+
+  Commands for managing ZenML servers.
+
+Options:
+  --help  Show this message and exit.
+
+Commands:
+  list  List all ZenML servers that this client is authenticated to.
+  show  Show the ZenML dashboard for the server that the client is...
+Usage: zenml server [OPTIONS] COMMAND [ARGS]...
+
+  Commands for managing ZenML servers.
+
+Options:
+  --help  Show this message and exit.
+
+Commands:
+  list  List all ZenML servers that this client is authenticated to.
+  show  Show the ZenML dashboard for the server that the client is...
+Usage: zenml server [OPTIONS] COMMAND [ARGS]...
+
+  Commands for managing ZenML servers.
+
+Options:
+  --help  Show this message and exit.
+
+Commands:
+  list  List all ZenML servers that this client is authenticated to.
+  show  Show the ZenML dashboard for the server that the client is...
+Usage: zenml server [OPTIONS] COMMAND [ARGS]...
+
+  Commands for managing ZenML servers.
+
+Options:
+  --help  Show this message and exit.
+
+Commands:
+  list  List all ZenML servers that this client is authenticated to.
+  show  Show the ZenML dashboard for the server that the client is...
+Usage: zenml server [OPTIONS] COMMAND [ARGS]...
+
+  Commands for managing ZenML servers.
+
+Options:
+  --help  Show this message and exit.
+
+Commands:
+  list  List all ZenML servers that this client is authenticated to.
+  show  Show the ZenML dashboard for the server that the client is...
+Usage: zenml server [OPTIONS] COMMAND [ARGS]...
+
+  Commands for managing ZenML servers.
+
+Options:
+  --help  Show this message and exit.
+
+Commands:
+  list  List all ZenML servers that this client is authenticated to.
+  show  Show the ZenML dashboard for the server that the client is...

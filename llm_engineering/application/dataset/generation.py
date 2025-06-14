@@ -1,11 +1,12 @@
 from abc import ABC, abstractmethod
 
 import tiktoken
+from llama_cpp import Llama
 from langchain_core.exceptions import OutputParserException
 from langchain_core.language_models.fake import FakeListLLM
 from langchain_core.messages import BaseMessage, HumanMessage, SystemMessage
 from langchain_core.prompts import PromptTemplate
-from langchain_openai import ChatOpenAI
+#from langchain_openai import ChatOpenAI
 from loguru import logger
 
 from llm_engineering import domain
@@ -20,6 +21,11 @@ from . import constants
 from . import utils as generation_utils
 from .output_parsers import ListPydanticOutputParser
 
+local_llm = Llama(
+    model_path="/home/ali/.cache/huggingface/hub/models--TheBloke--Llama-2-7B-Chat-GGUF/snapshots/191239b3e26b2882fb562ffccdd1cf0f65402adb/llama-2-7b-chat.Q4_K_M.gguf",
+    n_ctx=4096,
+    n_threads=8,
+)
 
 class DatasetGenerator(ABC):
     tokenizer = tiktoken.encoding_for_model(settings.OPENAI_MODEL_ID)
